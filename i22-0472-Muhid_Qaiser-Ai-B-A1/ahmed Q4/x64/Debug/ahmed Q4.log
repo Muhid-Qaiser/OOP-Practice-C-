@@ -1,0 +1,13 @@
+﻿  ahmed Q4.cpp
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(239,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(290,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(291,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(320,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(321,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(335,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(350,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(351,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(431,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(469,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\ahmed Q4.cpp(470,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ahmed Q4.vcxproj -> C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q4\x64\Debug\ahmed Q4.exe

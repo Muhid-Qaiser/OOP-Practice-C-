@@ -1,0 +1,23 @@
+﻿  ahmed Q5 global.cpp
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(22,22): error C2440: '=': cannot convert from 'char **' to 'char *'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(22,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(24,15): error C2440: '=': cannot convert from 'char **' to 'char ***'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(24,10): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(124,27): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(125,26): error C2109: subscript requires array or pointer type
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(130,14): error C2109: subscript requires array or pointer type
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(130,33): error C2109: subscript requires array or pointer type
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(131,10): error C2109: subscript requires array or pointer type
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(131,25): error C2109: subscript requires array or pointer type
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(140,45): error C2664: 'void ShiftClear(char **&,char &,int &,int)': cannot convert argument 1 from 'char ***' to 'char **&'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(121,6): message : see declaration of 'ShiftClear'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(227,17): error C2660: 'createNewFile': function does not take 0 arguments
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(71,5): message : see declaration of 'createNewFile'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(237,20): error C2660: 'viewExistingFile': function does not take 0 arguments
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(111,6): message : see declaration of 'viewExistingFile'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(240,20): error C2660: 'editExistingFile': function does not take 0 arguments
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(180,5): message : see declaration of 'editExistingFile'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(243,20): error C2660: 'copyExistingFile': function does not take 0 arguments
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(147,5): message : see declaration of 'copyExistingFile'
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(246,22): error C2660: 'deleteExistingFile': function does not take 0 arguments
+C:\Users\IDEAL\OneDrive\Documents\OOPs\ahmed Q5 global\ahmed Q5 global.cpp(135,5): message : see declaration of 'deleteExistingFile'
